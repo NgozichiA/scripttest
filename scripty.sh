@@ -4,3 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "end of the commit"
 echo "jumping up"
+echo "games are commingt"
